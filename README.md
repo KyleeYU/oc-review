@@ -15,8 +15,6 @@ Oxpedia is an anonymous review platform for Chinese international students at Ox
 - **Backend & Database:** Supabase (PostgreSQL)
 - **Deployment:** Vercel
 
-## Screenshot
-![Oxpedia homepage](./screenshot.png)
 
 ## Running Locally
 ```bash
