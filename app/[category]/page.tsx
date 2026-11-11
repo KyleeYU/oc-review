@@ -6,6 +6,7 @@ import Link from 'next/link'
 import { supabase } from '@/lib/supabase'
 import { fetchCategory, getCachedCategory } from '@/lib/categoryCache'
 import type { Category, Item } from '@/types'
+import CourseDirectory from '@/components/CourseDirectory'
 import StarDisplay from '@/components/StarDisplay'
 import { ListSkeleton } from '@/components/Skeletons'
 
@@ -22,6 +23,9 @@ export default function CategoryPage() {
 
   useEffect(() => {
     let cancelled = false
+    setLoading(true)
+    setRatingsReady(false)
+    setSearch('')
 
     async function loadItems(catId: number) {
       const { data: rawItems } = await supabase
@@ -118,6 +122,7 @@ export default function CategoryPage() {
         </Link>
       </div>
 
+      {slug === 'course' ? <CourseDirectory items={items} ratingsReady={ratingsReady} /> : <>
       <div className="relative mb-5">
         <svg xmlns="http://www.w3.org/2000/svg" className="pointer-events-none absolute left-3.5 top-1/2 h-4 w-4 -translate-y-1/2 text-slate-400" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
           <path strokeLinecap="round" strokeLinejoin="round" d="m21 21-4.35-4.35M11 18a7 7 0 1 1 0-14 7 7 0 0 1 0 14Z" />
@@ -182,6 +187,7 @@ export default function CategoryPage() {
           ))}
         </div>
       )}
+      </>}
     </div>
   )
 }
