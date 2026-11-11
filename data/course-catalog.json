@@ -1,0 +1,2158 @@
+{
+  "source": "https://oxford.emory.edu/catalog/documents/26-27-ox-catalog_01.30.26.pdf",
+  "verifiedAt": "2026-11-10",
+  "courses": {
+    "ACT_OX200": {
+      "ger": [],
+      "introductory": false
+    },
+    "AAS_OX100": {
+      "ger": [],
+      "introductory": true
+    },
+    "AAS_OX202": {
+      "ger": [
+        "HA"
+      ],
+      "introductory": false
+    },
+    "AAS_OX262": {
+      "ger": [
+        "HA"
+      ],
+      "introductory": false
+    },
+    "AAS_OX285R": {
+      "ger": [],
+      "introductory": false
+    },
+    "AAS_OX346": {
+      "ger": [],
+      "introductory": false
+    },
+    "AAS_OX385R": {
+      "ger": [],
+      "introductory": false
+    },
+    "AMST_OX201": {
+      "ger": [
+        "HA"
+      ],
+      "introductory": false
+    },
+    "AMST_OX315": {
+      "ger": [],
+      "introductory": false
+    },
+    "AMST_OX320": {
+      "ger": [],
+      "introductory": false
+    },
+    "AMST_OX385R": {
+      "ger": [],
+      "introductory": false
+    },
+    "AMST_OX397R": {
+      "ger": [],
+      "introductory": false
+    },
+    "ANTH_OX101": {
+      "ger": [
+        "SS"
+      ],
+      "introductory": true
+    },
+    "ANTH_OX200": {
+      "ger": [
+        "NS"
+      ],
+      "introductory": false
+    },
+    "ANTH_OX201": {
+      "ger": [
+        "NS"
+      ],
+      "introductory": false
+    },
+    "ANTH_OX202": {
+      "ger": [
+        "SS"
+      ],
+      "introductory": false
+    },
+    "ANTH_OX204": {
+      "ger": [
+        "SS"
+      ],
+      "introductory": false
+    },
+    "ANTH_OX205": {
+      "ger": [
+        "SS"
+      ],
+      "introductory": false
+    },
+    "ANTH_OX265": {
+      "ger": [
+        "SS"
+      ],
+      "introductory": false
+    },
+    "ANTH_OX280R": {
+      "ger": [
+        "SS"
+      ],
+      "introductory": false
+    },
+    "ANTH_OX314": {
+      "ger": [],
+      "introductory": false
+    },
+    "ANTH_OX332": {
+      "ger": [],
+      "introductory": false
+    },
+    "ANTH_OX352": {
+      "ger": [],
+      "introductory": false
+    },
+    "ANTH_OX353": {
+      "ger": [],
+      "introductory": false
+    },
+    "ANTH_OX385R": {
+      "ger": [],
+      "introductory": false
+    },
+    "ANTH_OX397R": {
+      "ger": [],
+      "introductory": false
+    },
+    "ARAB_OX101": {
+      "ger": [
+        "IC"
+      ],
+      "introductory": true
+    },
+    "ARAB_OX102": {
+      "ger": [
+        "IC"
+      ],
+      "introductory": false
+    },
+    "ARAB_OX201": {
+      "ger": [
+        "IC"
+      ],
+      "introductory": false
+    },
+    "ARAB_OX202": {
+      "ger": [
+        "IC"
+      ],
+      "introductory": false
+    },
+    "ART_OX101": {
+      "ger": [
+        "HA"
+      ],
+      "introductory": true
+    },
+    "ART_OX102": {
+      "ger": [
+        "HA"
+      ],
+      "introductory": true
+    },
+    "ART_OX104": {
+      "ger": [
+        "HA"
+      ],
+      "introductory": true
+    },
+    "ART_OX105": {
+      "ger": [
+        "HA"
+      ],
+      "introductory": true
+    },
+    "ART_OX109": {
+      "ger": [
+        "HA"
+      ],
+      "introductory": true
+    },
+    "ART_OX110": {
+      "ger": [
+        "HA"
+      ],
+      "introductory": true
+    },
+    "ART_OX185R": {
+      "ger": [],
+      "introductory": true
+    },
+    "ART_OX205R": {
+      "ger": [
+        "HA"
+      ],
+      "introductory": false
+    },
+    "ART_OX213": {
+      "ger": [
+        "HA"
+      ],
+      "introductory": false
+    },
+    "ART_OX214": {
+      "ger": [
+        "HA"
+      ],
+      "introductory": false
+    },
+    "ART_OX222": {
+      "ger": [
+        "HA"
+      ],
+      "introductory": false
+    },
+    "ART_OX265": {
+      "ger": [
+        "HA"
+      ],
+      "introductory": false
+    },
+    "ART_OX266": {
+      "ger": [
+        "HA"
+      ],
+      "introductory": false
+    },
+    "ART_OX319R": {
+      "ger": [],
+      "introductory": false
+    },
+    "ART_OX385R": {
+      "ger": [],
+      "introductory": false
+    },
+    "ART_OX398R": {
+      "ger": [],
+      "introductory": false
+    },
+    "ASTR_OX116": {
+      "ger": [
+        "NS"
+      ],
+      "introductory": false
+    },
+    "BIOL_OX120": {
+      "ger": [
+        "NS"
+      ],
+      "introductory": true
+    },
+    "BIOL_OX135": {
+      "ger": [
+        "NS"
+      ],
+      "introductory": true
+    },
+    "BIOL_OX141": {
+      "ger": [
+        "NS"
+      ],
+      "introductory": true
+    },
+    "BIOL_OX141L": {
+      "ger": [],
+      "introductory": false
+    },
+    "BIOL_OX142": {
+      "ger": [
+        "NS"
+      ],
+      "introductory": false
+    },
+    "BIOL_OX155": {
+      "ger": [
+        "NS"
+      ],
+      "introductory": true
+    },
+    "BIOL_OX212": {
+      "ger": [
+        "NS"
+      ],
+      "introductory": false
+    },
+    "BIOL_OX235": {
+      "ger": [
+        "NS"
+      ],
+      "introductory": false
+    },
+    "BIOL_OX242": {
+      "ger": [
+        "NS"
+      ],
+      "introductory": false
+    },
+    "BIOL_OX245": {
+      "ger": [
+        "NS"
+      ],
+      "introductory": false
+    },
+    "BIOL_OX264": {
+      "ger": [],
+      "introductory": false
+    },
+    "BIOL_OX340R": {
+      "ger": [],
+      "introductory": false
+    },
+    "BIOL_OX385R": {
+      "ger": [],
+      "introductory": false
+    },
+    "BIOL_OX386R": {
+      "ger": [],
+      "introductory": false
+    },
+    "BIOL_OX397R": {
+      "ger": [],
+      "introductory": false
+    },
+    "BIOL_OX399R": {
+      "ger": [],
+      "introductory": false
+    },
+    "CHEM_OX150": {
+      "ger": [
+        "NS"
+      ],
+      "introductory": false
+    },
+    "CHEM_OX150L": {
+      "ger": [],
+      "introductory": false
+    },
+    "CHEM_OX151": {
+      "ger": [],
+      "introductory": false
+    },
+    "CHEM_OX202": {
+      "ger": [
+        "NS"
+      ],
+      "introductory": false
+    },
+    "CHEM_OX202L": {
+      "ger": [],
+      "introductory": false
+    },
+    "CHEM_OX203": {
+      "ger": [
+        "NS"
+      ],
+      "introductory": false
+    },
+    "CHEM_OX203L": {
+      "ger": [],
+      "introductory": false
+    },
+    "CHEM_OX204": {
+      "ger": [
+        "NS"
+      ],
+      "introductory": false
+    },
+    "CHEM_OX204L": {
+      "ger": [],
+      "introductory": false
+    },
+    "CHEM_OX205": {
+      "ger": [
+        "NS"
+      ],
+      "introductory": false
+    },
+    "CHEM_OX205L": {
+      "ger": [],
+      "introductory": false
+    },
+    "CHEM_OX261": {
+      "ger": [],
+      "introductory": false
+    },
+    "CHEM_OX397R": {
+      "ger": [],
+      "introductory": false
+    },
+    "CHEM_OX399R": {
+      "ger": [],
+      "introductory": false
+    },
+    "CHN_OX101": {
+      "ger": [
+        "IC"
+      ],
+      "introductory": true
+    },
+    "CHN_OX102": {
+      "ger": [
+        "IC"
+      ],
+      "introductory": false
+    },
+    "CHN_OX103": {
+      "ger": [
+        "IC"
+      ],
+      "introductory": false
+    },
+    "CHN_OX201": {
+      "ger": [
+        "IC"
+      ],
+      "introductory": false
+    },
+    "CHN_OX202": {
+      "ger": [
+        "IC"
+      ],
+      "introductory": false
+    },
+    "CHN_OX203": {
+      "ger": [
+        "IC"
+      ],
+      "introductory": false
+    },
+    "CHN_OX216": {
+      "ger": [
+        "HA"
+      ],
+      "introductory": false
+    },
+    "CS_OX170": {
+      "ger": [
+        "QR"
+      ],
+      "introductory": true
+    },
+    "CS_OX171": {
+      "ger": [
+        "QR"
+      ],
+      "introductory": false
+    },
+    "CS_OX224": {
+      "ger": [
+        "QR"
+      ],
+      "introductory": false
+    },
+    "CS_OX253": {
+      "ger": [
+        "QR"
+      ],
+      "introductory": false
+    },
+    "CS_OX255": {
+      "ger": [
+        "QR"
+      ],
+      "introductory": false
+    },
+    "CS_OX297R": {
+      "ger": [],
+      "introductory": false
+    },
+    "DANC_OX220": {
+      "ger": [],
+      "introductory": false
+    },
+    "DANC_OX223R": {
+      "ger": [],
+      "introductory": false
+    },
+    "DANC_OX300R": {
+      "ger": [],
+      "introductory": false
+    },
+    "DASCI_OX100": {
+      "ger": [
+        "QR"
+      ],
+      "introductory": true
+    },
+    "DASCI_OX110": {
+      "ger": [
+        "QR"
+      ],
+      "introductory": true
+    },
+    "DASCI_OX150": {
+      "ger": [],
+      "introductory": true
+    },
+    "DASCI_OX151": {
+      "ger": [],
+      "introductory": true
+    },
+    "DASCI_OX210": {
+      "ger": [
+        "QR"
+      ],
+      "introductory": false
+    },
+    "DSC_OX101": {
+      "ger": [],
+      "introductory": true
+    },
+    "ECON_OX101": {
+      "ger": [
+        "SS"
+      ],
+      "introductory": true
+    },
+    "ECON_OX112": {
+      "ger": [
+        "SS"
+      ],
+      "introductory": false
+    },
+    "ECON_OX201": {
+      "ger": [
+        "SS"
+      ],
+      "introductory": false
+    },
+    "ECON_OX212": {
+      "ger": [
+        "SS"
+      ],
+      "introductory": false
+    },
+    "ECON_OX220": {
+      "ger": [
+        "QR"
+      ],
+      "introductory": false
+    },
+    "ECON_OX231": {
+      "ger": [
+        "SS"
+      ],
+      "introductory": false
+    },
+    "ECON_OX302": {
+      "ger": [],
+      "introductory": false
+    },
+    "ECON_OX362": {
+      "ger": [],
+      "introductory": false
+    },
+    "ECON_OX371": {
+      "ger": [],
+      "introductory": false
+    },
+    "ECON_OX385R": {
+      "ger": [],
+      "introductory": false
+    },
+    "ECON_OX397R": {
+      "ger": [],
+      "introductory": false
+    },
+    "ENG_OX185": {
+      "ger": [
+        "FW"
+      ],
+      "introductory": true
+    },
+    "ENG_OX186": {
+      "ger": [
+        "FW"
+      ],
+      "introductory": true
+    },
+    "ENG_OX202": {
+      "ger": [],
+      "introductory": false
+    },
+    "ENG_OX205": {
+      "ger": [
+        "HA"
+      ],
+      "introductory": false
+    },
+    "ENG_OX212R": {
+      "ger": [
+        "HA"
+      ],
+      "introductory": false
+    },
+    "ENG_OX220": {
+      "ger": [
+        "HA"
+      ],
+      "introductory": false
+    },
+    "ENG_OX221": {
+      "ger": [
+        "HA"
+      ],
+      "introductory": false
+    },
+    "ENG_OX226": {
+      "ger": [
+        "HA"
+      ],
+      "introductory": false
+    },
+    "ENG_OX250": {
+      "ger": [
+        "HA"
+      ],
+      "introductory": false
+    },
+    "ENG_OX251": {
+      "ger": [
+        "HA"
+      ],
+      "introductory": false
+    },
+    "ENG_OX255": {
+      "ger": [
+        "HA"
+      ],
+      "introductory": false
+    },
+    "ENG_OX256": {
+      "ger": [
+        "HA"
+      ],
+      "introductory": false
+    },
+    "ENG_OX262": {
+      "ger": [
+        "HA"
+      ],
+      "introductory": false
+    },
+    "ENG_OX270": {
+      "ger": [
+        "HA"
+      ],
+      "introductory": false
+    },
+    "ENG_OX271": {
+      "ger": [
+        "HA"
+      ],
+      "introductory": false
+    },
+    "ENG_OX272": {
+      "ger": [
+        "HA"
+      ],
+      "introductory": false
+    },
+    "ENG_OX311": {
+      "ger": [],
+      "introductory": false
+    },
+    "ENG_OX312": {
+      "ger": [],
+      "introductory": false
+    },
+    "ENG_OX317": {
+      "ger": [],
+      "introductory": false
+    },
+    "ENG_OX330": {
+      "ger": [],
+      "introductory": false
+    },
+    "ENG_OX336": {
+      "ger": [],
+      "introductory": false
+    },
+    "ENG_OX345": {
+      "ger": [],
+      "introductory": false
+    },
+    "ENG_OX348": {
+      "ger": [],
+      "introductory": false
+    },
+    "ENG_OX357": {
+      "ger": [],
+      "introductory": false
+    },
+    "ENG_OX359R": {
+      "ger": [],
+      "introductory": false
+    },
+    "ENG_OX380": {
+      "ger": [],
+      "introductory": false
+    },
+    "ENG_OX381R": {
+      "ger": [],
+      "introductory": false
+    },
+    "ENG_OX384R": {
+      "ger": [],
+      "introductory": false
+    },
+    "ENG_OX385": {
+      "ger": [],
+      "introductory": false
+    },
+    "ENG_OX389R": {
+      "ger": [],
+      "introductory": false
+    },
+    "ENG_OX399R": {
+      "ger": [],
+      "introductory": false
+    },
+    "ENVS_OX131": {
+      "ger": [
+        "NS"
+      ],
+      "introductory": true
+    },
+    "ENVS_OX219": {
+      "ger": [
+        "NS"
+      ],
+      "introductory": false
+    },
+    "ENVS_OX220": {
+      "ger": [
+        "NS"
+      ],
+      "introductory": false
+    },
+    "ENVS_OX222": {
+      "ger": [
+        "NS"
+      ],
+      "introductory": false
+    },
+    "ENVS_OX227": {
+      "ger": [
+        "SS"
+      ],
+      "introductory": false
+    },
+    "ENVS_OX229": {
+      "ger": [
+        "NS"
+      ],
+      "introductory": false
+    },
+    "ENVS_OX230": {
+      "ger": [
+        "NS"
+      ],
+      "introductory": false
+    },
+    "ENVS_OX232": {
+      "ger": [
+        "NS"
+      ],
+      "introductory": false
+    },
+    "ENVS_OX239": {
+      "ger": [
+        "NS"
+      ],
+      "introductory": false
+    },
+    "ENVS_OX239L": {
+      "ger": [],
+      "introductory": false
+    },
+    "ENVS_OX243": {
+      "ger": [
+        "NS"
+      ],
+      "introductory": false
+    },
+    "ENVS_OX244": {
+      "ger": [
+        "NS"
+      ],
+      "introductory": false
+    },
+    "ENVS_OX255": {
+      "ger": [],
+      "introductory": false
+    },
+    "ENVS_OX299R": {
+      "ger": [],
+      "introductory": false
+    },
+    "ENVS_OX385": {
+      "ger": [],
+      "introductory": false
+    },
+    "FILM_OX101": {
+      "ger": [
+        "HA"
+      ],
+      "introductory": true
+    },
+    "FILM_OX102": {
+      "ger": [
+        "HA"
+      ],
+      "introductory": true
+    },
+    "FILM_OX103": {
+      "ger": [
+        "HA"
+      ],
+      "introductory": true
+    },
+    "FILM_OX107": {
+      "ger": [
+        "HA"
+      ],
+      "introductory": true
+    },
+    "FILM_OX204": {
+      "ger": [
+        "HA"
+      ],
+      "introductory": false
+    },
+    "FILM_OX209": {
+      "ger": [
+        "HA"
+      ],
+      "introductory": false
+    },
+    "FILM_OX210": {
+      "ger": [
+        "HA"
+      ],
+      "introductory": false
+    },
+    "FILM_OX225": {
+      "ger": [
+        "SS"
+      ],
+      "introductory": false
+    },
+    "FILM_OX278": {
+      "ger": [
+        "HA"
+      ],
+      "introductory": false
+    },
+    "FILM_OX299R": {
+      "ger": [],
+      "introductory": false
+    },
+    "FILM_OX373R": {
+      "ger": [],
+      "introductory": false
+    },
+    "FREN_OX101": {
+      "ger": [
+        "IC"
+      ],
+      "introductory": true
+    },
+    "FREN_OX102": {
+      "ger": [
+        "IC"
+      ],
+      "introductory": false
+    },
+    "FREN_OX201": {
+      "ger": [
+        "IC"
+      ],
+      "introductory": false
+    },
+    "FREN_OX203": {
+      "ger": [
+        "IC"
+      ],
+      "introductory": false
+    },
+    "FREN_OX310": {
+      "ger": [
+        "IC"
+      ],
+      "introductory": false
+    },
+    "FREN_OX314": {
+      "ger": [
+        "IC"
+      ],
+      "introductory": false
+    },
+    "FREN_OX342": {
+      "ger": [
+        "IC"
+      ],
+      "introductory": false
+    },
+    "FREN_OX388R": {
+      "ger": [
+        "IC"
+      ],
+      "introductory": false
+    },
+    "FREN_OX397R": {
+      "ger": [],
+      "introductory": false
+    },
+    "GER_OX101": {
+      "ger": [
+        "IC"
+      ],
+      "introductory": true
+    },
+    "GER_OX102": {
+      "ger": [
+        "IC"
+      ],
+      "introductory": true
+    },
+    "GER_OX201": {
+      "ger": [
+        "IC"
+      ],
+      "introductory": false
+    },
+    "GER_OX202": {
+      "ger": [
+        "IC"
+      ],
+      "introductory": false
+    },
+    "GER_OX297R": {
+      "ger": [],
+      "introductory": false
+    },
+    "GER_OX299": {
+      "ger": [],
+      "introductory": false
+    },
+    "HIST_OX101": {
+      "ger": [
+        "SS"
+      ],
+      "introductory": true
+    },
+    "HIST_OX102": {
+      "ger": [
+        "SS"
+      ],
+      "introductory": true
+    },
+    "HIST_OX231": {
+      "ger": [
+        "HA"
+      ],
+      "introductory": false
+    },
+    "HIST_OX232": {
+      "ger": [],
+      "introductory": false
+    },
+    "HIST_OX244": {
+      "ger": [
+        "HA"
+      ],
+      "introductory": false
+    },
+    "HIST_OX309": {
+      "ger": [],
+      "introductory": false
+    },
+    "HIST_OX322": {
+      "ger": [],
+      "introductory": false
+    },
+    "HIST_OX325": {
+      "ger": [],
+      "introductory": false
+    },
+    "HIST_OX328": {
+      "ger": [],
+      "introductory": false
+    },
+    "HIST_OX337": {
+      "ger": [],
+      "introductory": false
+    },
+    "HIST_OX345": {
+      "ger": [],
+      "introductory": false
+    },
+    "HIST_OX349": {
+      "ger": [],
+      "introductory": false
+    },
+    "HIST_OX357": {
+      "ger": [],
+      "introductory": false
+    },
+    "HIST_OX362": {
+      "ger": [],
+      "introductory": false
+    },
+    "HIST_OX385R": {
+      "ger": [],
+      "introductory": false
+    },
+    "HIST_OX397R": {
+      "ger": [],
+      "introductory": false
+    },
+    "IDS_OX201": {
+      "ger": [
+        "HA"
+      ],
+      "introductory": false
+    },
+    "IDS_OX216": {
+      "ger": [
+        "HA"
+      ],
+      "introductory": false
+    },
+    "IDS_OX290R": {
+      "ger": [],
+      "introductory": false
+    },
+    "LAT_OX101": {
+      "ger": [
+        "IC"
+      ],
+      "introductory": true
+    },
+    "LAT_OX102": {
+      "ger": [
+        "IC"
+      ],
+      "introductory": false
+    },
+    "LAT_OX111": {
+      "ger": [
+        "IC"
+      ],
+      "introductory": false
+    },
+    "LAT_OX201": {
+      "ger": [
+        "IC"
+      ],
+      "introductory": false
+    },
+    "LAT_OX202": {
+      "ger": [
+        "IC"
+      ],
+      "introductory": false
+    },
+    "LACS_OX101": {
+      "ger": [],
+      "introductory": true
+    },
+    "LACS_OX261": {
+      "ger": [
+        "HA"
+      ],
+      "introductory": false
+    },
+    "LACS_OX270": {
+      "ger": [],
+      "introductory": false
+    },
+    "LACS_OX362": {
+      "ger": [],
+      "introductory": false
+    },
+    "LING_OX101": {
+      "ger": [
+        "SS"
+      ],
+      "introductory": true
+    },
+    "LING_OX201": {
+      "ger": [
+        "SS"
+      ],
+      "introductory": false
+    },
+    "LING_OX212": {
+      "ger": [],
+      "introductory": false
+    },
+    "LING_OX317": {
+      "ger": [],
+      "introductory": false
+    },
+    "LING_OX318": {
+      "ger": [],
+      "introductory": false
+    },
+    "LING_OX340": {
+      "ger": [],
+      "introductory": false
+    },
+    "LING_OX360": {
+      "ger": [],
+      "introductory": false
+    },
+    "MATH_OX108": {
+      "ger": [
+        "QR"
+      ],
+      "introductory": true
+    },
+    "MATH_OX111": {
+      "ger": [
+        "QR"
+      ],
+      "introductory": true
+    },
+    "MATH_OX112": {
+      "ger": [
+        "QR"
+      ],
+      "introductory": false
+    },
+    "MATH_OX120": {
+      "ger": [
+        "QR"
+      ],
+      "introductory": true
+    },
+    "MATH_OX125": {
+      "ger": [
+        "QR"
+      ],
+      "introductory": true
+    },
+    "MATH_OX185": {
+      "ger": [],
+      "introductory": false
+    },
+    "MATH_OX202": {
+      "ger": [],
+      "introductory": false
+    },
+    "MATH_OX210": {
+      "ger": [
+        "QR"
+      ],
+      "introductory": false
+    },
+    "MATH_OX211": {
+      "ger": [
+        "QR"
+      ],
+      "introductory": false
+    },
+    "MATH_OX212": {
+      "ger": [
+        "QR"
+      ],
+      "introductory": false
+    },
+    "MATH_OX221": {
+      "ger": [
+        "QR"
+      ],
+      "introductory": false
+    },
+    "MATH_OX250": {
+      "ger": [
+        "QR"
+      ],
+      "introductory": false
+    },
+    "MATH_OX285": {
+      "ger": [],
+      "introductory": false
+    },
+    "MATH_OX297R": {
+      "ger": [],
+      "introductory": false
+    },
+    "MATH_OX315": {
+      "ger": [],
+      "introductory": false
+    },
+    "MATH_OX346": {
+      "ger": [],
+      "introductory": false
+    },
+    "MATH_OX399R": {
+      "ger": [],
+      "introductory": false
+    },
+    "MUS_OX101": {
+      "ger": [
+        "HA"
+      ],
+      "introductory": true
+    },
+    "MUS_OX114": {
+      "ger": [
+        "HA"
+      ],
+      "introductory": true
+    },
+    "MUS_OX200": {
+      "ger": [
+        "HA"
+      ],
+      "introductory": false
+    },
+    "MUS_OX202": {
+      "ger": [
+        "HA"
+      ],
+      "introductory": false
+    },
+    "MUS_OX204": {
+      "ger": [
+        "HA"
+      ],
+      "introductory": false
+    },
+    "MUS_OX213": {
+      "ger": [
+        "HA"
+      ],
+      "introductory": false
+    },
+    "MUS_OX261": {
+      "ger": [
+        "HA"
+      ],
+      "introductory": false
+    },
+    "MUS_OX300R": {
+      "ger": [],
+      "introductory": false
+    },
+    "MUS_OX300V": {
+      "ger": [],
+      "introductory": false
+    },
+    "MUS_OX301R": {
+      "ger": [],
+      "introductory": false
+    },
+    "MUS_OX310": {
+      "ger": [],
+      "introductory": false
+    },
+    "MUS_OX389R": {
+      "ger": [],
+      "introductory": false
+    },
+    "NBB_OX201": {
+      "ger": [
+        "NS"
+      ],
+      "introductory": false
+    },
+    "NBB_OX202": {
+      "ger": [
+        "NS"
+      ],
+      "introductory": false
+    },
+    "NBB_OX270R": {
+      "ger": [],
+      "introductory": false
+    },
+    "NBB_OX304": {
+      "ger": [],
+      "introductory": false
+    },
+    "NBB_OX499R": {
+      "ger": [],
+      "introductory": false
+    },
+    "NRSG_OX201": {
+      "ger": [],
+      "introductory": false
+    },
+    "NRSG_OX202": {
+      "ger": [],
+      "introductory": false
+    },
+    "NRSG_OX205": {
+      "ger": [],
+      "introductory": false
+    },
+    "NRSG_OX207": {
+      "ger": [],
+      "introductory": false
+    },
+    "OCS_OX101": {
+      "ger": [],
+      "introductory": true
+    },
+    "OXST_OX100R": {
+      "ger": [],
+      "introductory": true
+    },
+    "PHIL_OX100": {
+      "ger": [
+        "HA"
+      ],
+      "introductory": true
+    },
+    "PHIL_OX110": {
+      "ger": [
+        "QR"
+      ],
+      "introductory": true
+    },
+    "PHIL_OX115": {
+      "ger": [
+        "HA"
+      ],
+      "introductory": true
+    },
+    "PHIL_OX120": {
+      "ger": [
+        "HA"
+      ],
+      "introductory": true
+    },
+    "PHIL_OX135": {
+      "ger": [
+        "HA"
+      ],
+      "introductory": true
+    },
+    "PHIL_OX200": {
+      "ger": [
+        "HA"
+      ],
+      "introductory": false
+    },
+    "PHIL_OX202": {
+      "ger": [
+        "HA"
+      ],
+      "introductory": false
+    },
+    "PHIL_OX204": {
+      "ger": [
+        "HA"
+      ],
+      "introductory": false
+    },
+    "PHIL_OX220": {
+      "ger": [
+        "HA"
+      ],
+      "introductory": false
+    },
+    "PHIL_OX282R": {
+      "ger": [],
+      "introductory": false
+    },
+    "PHIL_OX300": {
+      "ger": [],
+      "introductory": false
+    },
+    "PHIL_OX317": {
+      "ger": [],
+      "introductory": false
+    },
+    "PHIL_OX382R": {
+      "ger": [],
+      "introductory": false
+    },
+    "PE_OX100": {
+      "ger": [
+        "PED"
+      ],
+      "introductory": true
+    },
+    "PE_OX101": {
+      "ger": [
+        "PED"
+      ],
+      "introductory": true
+    },
+    "PE_OX106": {
+      "ger": [
+        "PED"
+      ],
+      "introductory": true
+    },
+    "PE_OX107": {
+      "ger": [
+        "PED"
+      ],
+      "introductory": true
+    },
+    "PE_OX110": {
+      "ger": [
+        "PED"
+      ],
+      "introductory": false
+    },
+    "PE_OX111": {
+      "ger": [
+        "PED"
+      ],
+      "introductory": false
+    },
+    "PE_OX112": {
+      "ger": [
+        "PED"
+      ],
+      "introductory": false
+    },
+    "PE_OX113": {
+      "ger": [
+        "PED"
+      ],
+      "introductory": false
+    },
+    "PE_OX122": {
+      "ger": [
+        "PED"
+      ],
+      "introductory": false
+    },
+    "PE_OX123": {
+      "ger": [
+        "PED"
+      ],
+      "introductory": true
+    },
+    "PE_OX124": {
+      "ger": [
+        "PED"
+      ],
+      "introductory": true
+    },
+    "PE_OX126": {
+      "ger": [
+        "PED"
+      ],
+      "introductory": true
+    },
+    "PE_OX128": {
+      "ger": [
+        "PED"
+      ],
+      "introductory": true
+    },
+    "PE_OX129": {
+      "ger": [
+        "PED"
+      ],
+      "introductory": true
+    },
+    "PE_OX130": {
+      "ger": [
+        "PED"
+      ],
+      "introductory": true
+    },
+    "PE_OX133": {
+      "ger": [
+        "PED"
+      ],
+      "introductory": true
+    },
+    "PE_OX134": {
+      "ger": [
+        "PED"
+      ],
+      "introductory": true
+    },
+    "PE_OX138": {
+      "ger": [
+        "PED"
+      ],
+      "introductory": true
+    },
+    "PE_OX141": {
+      "ger": [
+        "PED"
+      ],
+      "introductory": true
+    },
+    "PE_OX148": {
+      "ger": [
+        "PED"
+      ],
+      "introductory": true
+    },
+    "PE_OX151": {
+      "ger": [
+        "PED"
+      ],
+      "introductory": true
+    },
+    "PE_OX152": {
+      "ger": [
+        "PED"
+      ],
+      "introductory": true
+    },
+    "PE_OX153": {
+      "ger": [
+        "PED"
+      ],
+      "introductory": true
+    },
+    "PE_OX161": {
+      "ger": [
+        "PED"
+      ],
+      "introductory": false
+    },
+    "PE_OX162": {
+      "ger": [
+        "PED"
+      ],
+      "introductory": false
+    },
+    "PE_OX163": {
+      "ger": [
+        "PED"
+      ],
+      "introductory": false
+    },
+    "PE_OX164": {
+      "ger": [
+        "PED"
+      ],
+      "introductory": false
+    },
+    "PE_OX165": {
+      "ger": [
+        "PED"
+      ],
+      "introductory": false
+    },
+    "PE_OX166": {
+      "ger": [
+        "PED"
+      ],
+      "introductory": false
+    },
+    "PE_OX167": {
+      "ger": [
+        "PED"
+      ],
+      "introductory": false
+    },
+    "PE_OX168": {
+      "ger": [
+        "PED"
+      ],
+      "introductory": false
+    },
+    "PE_OX169": {
+      "ger": [
+        "PED"
+      ],
+      "introductory": false
+    },
+    "PE_OX170": {
+      "ger": [
+        "PED"
+      ],
+      "introductory": false
+    },
+    "PE_OX220R": {
+      "ger": [
+        "PED"
+      ],
+      "introductory": false
+    },
+    "PHYS_OX141": {
+      "ger": [
+        "NS"
+      ],
+      "introductory": false
+    },
+    "PHYS_OX142": {
+      "ger": [
+        "NS"
+      ],
+      "introductory": false
+    },
+    "PHYS_OX151": {
+      "ger": [
+        "NS"
+      ],
+      "introductory": false
+    },
+    "PHYS_OX152": {
+      "ger": [
+        "NS"
+      ],
+      "introductory": false
+    },
+    "PHYS_OX212": {
+      "ger": [
+        "NS"
+      ],
+      "introductory": false
+    },
+    "PHYS_OX220": {
+      "ger": [
+        "NS"
+      ],
+      "introductory": false
+    },
+    "PHYS_OX253": {
+      "ger": [
+        "NS"
+      ],
+      "introductory": false
+    },
+    "PHYS_OX380R": {
+      "ger": [],
+      "introductory": false
+    },
+    "PHYS_OX397R": {
+      "ger": [],
+      "introductory": false
+    },
+    "PHYS_OX399R": {
+      "ger": [],
+      "introductory": false
+    },
+    "POLS_OX100": {
+      "ger": [
+        "SS"
+      ],
+      "introductory": true
+    },
+    "POLS_OX110": {
+      "ger": [
+        "SS"
+      ],
+      "introductory": true
+    },
+    "POLS_OX111": {
+      "ger": [
+        "SS"
+      ],
+      "introductory": true
+    },
+    "POLS_OX120": {
+      "ger": [
+        "SS"
+      ],
+      "introductory": true
+    },
+    "POLS_OX200": {
+      "ger": [
+        "SS"
+      ],
+      "introductory": false
+    },
+    "POLS_OX208": {
+      "ger": [
+        "SS"
+      ],
+      "introductory": false
+    },
+    "POLS_OX210": {
+      "ger": [
+        "SS"
+      ],
+      "introductory": false
+    },
+    "POLS_OX306": {
+      "ger": [],
+      "introductory": false
+    },
+    "POLS_OX320": {
+      "ger": [],
+      "introductory": false
+    },
+    "POLS_OX346": {
+      "ger": [],
+      "introductory": false
+    },
+    "POLS_OX353": {
+      "ger": [],
+      "introductory": false
+    },
+    "POLS_OX354": {
+      "ger": [],
+      "introductory": false
+    },
+    "POLS_OX385R": {
+      "ger": [],
+      "introductory": false
+    },
+    "POLS_OX397R": {
+      "ger": [],
+      "introductory": false
+    },
+    "PSYC_OX110": {
+      "ger": [
+        "NS"
+      ],
+      "introductory": true
+    },
+    "PSYC_OX111": {
+      "ger": [],
+      "introductory": true
+    },
+    "PSYC_OX202": {
+      "ger": [
+        "NS"
+      ],
+      "introductory": false
+    },
+    "PSYC_OX205": {
+      "ger": [
+        "SS"
+      ],
+      "introductory": false
+    },
+    "PSYC_OX207": {
+      "ger": [
+        "NS"
+      ],
+      "introductory": false
+    },
+    "PSYC_OX210": {
+      "ger": [
+        "NS"
+      ],
+      "introductory": false
+    },
+    "PSYC_OX211": {
+      "ger": [
+        "SS"
+      ],
+      "introductory": false
+    },
+    "PSYC_OX222": {
+      "ger": [
+        "NS"
+      ],
+      "introductory": false
+    },
+    "PSYC_OX223": {
+      "ger": [
+        "NS"
+      ],
+      "introductory": false
+    },
+    "PSYC_OX225": {
+      "ger": [
+        "SS"
+      ],
+      "introductory": false
+    },
+    "PSYC_OX304": {
+      "ger": [],
+      "introductory": false
+    },
+    "PSYC_OX311": {
+      "ger": [],
+      "introductory": false
+    },
+    "PSYC_OX312": {
+      "ger": [],
+      "introductory": false
+    },
+    "PSYC_OX360": {
+      "ger": [],
+      "introductory": false
+    },
+    "PSYC_OX385R": {
+      "ger": [],
+      "introductory": false
+    },
+    "PSYC_OX397R": {
+      "ger": [],
+      "introductory": false
+    },
+    "REL_OX100": {
+      "ger": [
+        "HA"
+      ],
+      "introductory": true
+    },
+    "REL_OX150": {
+      "ger": [
+        "HA"
+      ],
+      "introductory": true
+    },
+    "REL_OX170R": {
+      "ger": [],
+      "introductory": true
+    },
+    "REL_OX205": {
+      "ger": [
+        "HA"
+      ],
+      "introductory": false
+    },
+    "REL_OX211": {
+      "ger": [
+        "HA"
+      ],
+      "introductory": false
+    },
+    "REL_OX212": {
+      "ger": [
+        "HA"
+      ],
+      "introductory": false
+    },
+    "REL_OX226": {
+      "ger": [
+        "HA"
+      ],
+      "introductory": false
+    },
+    "REL_OX230": {
+      "ger": [
+        "SS"
+      ],
+      "introductory": false
+    },
+    "REL_OX245": {
+      "ger": [
+        "HA"
+      ],
+      "introductory": false
+    },
+    "REL_OX247": {
+      "ger": [
+        "HA"
+      ],
+      "introductory": false
+    },
+    "REL_OX305": {
+      "ger": [],
+      "introductory": false
+    },
+    "REL_OX323": {
+      "ger": [],
+      "introductory": false
+    },
+    "REL_OX348": {
+      "ger": [],
+      "introductory": false
+    },
+    "REL_OX370R": {
+      "ger": [],
+      "introductory": false
+    },
+    "REL_OX373R": {
+      "ger": [],
+      "introductory": false
+    },
+    "REL_OX397R": {
+      "ger": [],
+      "introductory": false
+    },
+    "SOC_OX101": {
+      "ger": [
+        "SS"
+      ],
+      "introductory": true
+    },
+    "SOC_OX214": {
+      "ger": [
+        "SS"
+      ],
+      "introductory": false
+    },
+    "SOC_OX225": {
+      "ger": [
+        "SS"
+      ],
+      "introductory": false
+    },
+    "SOC_OX230": {
+      "ger": [
+        "SS"
+      ],
+      "introductory": false
+    },
+    "SOC_OX235": {
+      "ger": [],
+      "introductory": false
+    },
+    "SOC_OX240": {
+      "ger": [
+        "SS"
+      ],
+      "introductory": false
+    },
+    "SOC_OX245": {
+      "ger": [
+        "SS"
+      ],
+      "introductory": false
+    },
+    "SOC_OX247": {
+      "ger": [
+        "SS"
+      ],
+      "introductory": false
+    },
+    "SOC_OX248": {
+      "ger": [],
+      "introductory": false
+    },
+    "SOC_OX253": {
+      "ger": [],
+      "introductory": false
+    },
+    "SOC_OX254": {
+      "ger": [],
+      "introductory": false
+    },
+    "SOC_OX255": {
+      "ger": [
+        "SS"
+      ],
+      "introductory": false
+    },
+    "SOC_OX260": {
+      "ger": [
+        "SS"
+      ],
+      "introductory": false
+    },
+    "SOC_OX307": {
+      "ger": [],
+      "introductory": false
+    },
+    "SOC_OX389R": {
+      "ger": [],
+      "introductory": false
+    },
+    "SOC_OX397R": {
+      "ger": [],
+      "introductory": false
+    },
+    "SPAN_OX101": {
+      "ger": [
+        "IC"
+      ],
+      "introductory": true
+    },
+    "SPAN_OX102": {
+      "ger": [
+        "IC"
+      ],
+      "introductory": false
+    },
+    "SPAN_OX111": {
+      "ger": [
+        "IC"
+      ],
+      "introductory": false
+    },
+    "SPAN_OX201": {
+      "ger": [
+        "IC"
+      ],
+      "introductory": false
+    },
+    "SPAN_OX202": {
+      "ger": [
+        "IC"
+      ],
+      "introductory": false
+    },
+    "SPAN_OX205": {
+      "ger": [
+        "IC"
+      ],
+      "introductory": false
+    },
+    "SPAN_OX212": {
+      "ger": [
+        "IC"
+      ],
+      "introductory": false
+    },
+    "SPAN_OX285R": {
+      "ger": [],
+      "introductory": false
+    },
+    "SPAN_OX300": {
+      "ger": [
+        "IC"
+      ],
+      "introductory": false
+    },
+    "SPAN_OX302": {
+      "ger": [
+        "IC"
+      ],
+      "introductory": false
+    },
+    "SPAN_OX311": {
+      "ger": [
+        "IC"
+      ],
+      "introductory": false
+    },
+    "SPAN_OX312": {
+      "ger": [
+        "IC"
+      ],
+      "introductory": false
+    },
+    "SPAN_OX318": {
+      "ger": [
+        "IC"
+      ],
+      "introductory": false
+    },
+    "SPAN_OX376R": {
+      "ger": [],
+      "introductory": false
+    },
+    "SPAN_OX385": {
+      "ger": [],
+      "introductory": false
+    },
+    "THEA_OX101": {
+      "ger": [
+        "HA"
+      ],
+      "introductory": true
+    },
+    "THEA_OX120": {
+      "ger": [
+        "HA"
+      ],
+      "introductory": true
+    },
+    "THEA_OX130": {
+      "ger": [
+        "HA"
+      ],
+      "introductory": true
+    },
+    "THEA_OX200R": {
+      "ger": [],
+      "introductory": false
+    },
+    "THEA_OX210": {
+      "ger": [],
+      "introductory": false
+    },
+    "THEA_OX216": {
+      "ger": [
+        "HA"
+      ],
+      "introductory": false
+    },
+    "THEA_OX381": {
+      "ger": [],
+      "introductory": false
+    },
+    "THEA_OX389R": {
+      "ger": [],
+      "introductory": false
+    },
+    "THEA_OX397R": {
+      "ger": [],
+      "introductory": false
+    },
+    "WGS_OX200": {
+      "ger": [
+        "HA"
+      ],
+      "introductory": false
+    },
+    "WGS_OX205": {
+      "ger": [],
+      "introductory": false
+    },
+    "WGS_OX300": {
+      "ger": [],
+      "introductory": false
+    },
+    "WGS_OX385R": {
+      "ger": [],
+      "introductory": false
+    },
+    "WGS_OX397R": {
+      "ger": [],
+      "introductory": false
+    },
+    "ENGCW_OX270": {
+      "ger": [
+        "HA"
+      ],
+      "introductory": false
+    },
+    "ENGCW_OX271": {
+      "ger": [
+        "HA"
+      ],
+      "introductory": false
+    },
+    "ENGCW_OX272": {
+      "ger": [
+        "HA"
+      ],
+      "introductory": false
+    },
+    "QTM_OX100": {
+      "ger": [
+        "QR"
+      ],
+      "introductory": true
+    },
+    "QTM_OX110": {
+      "ger": [
+        "QR"
+      ],
+      "introductory": true
+    },
+    "QTM_OX150": {
+      "ger": [],
+      "introductory": true
+    },
+    "QTM_OX151": {
+      "ger": [],
+      "introductory": true
+    },
+    "QTM_OX210": {
+      "ger": [
+        "QR"
+      ],
+      "introductory": false
+    }
+  }
+}
