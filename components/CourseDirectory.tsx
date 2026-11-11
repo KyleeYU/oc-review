@@ -9,13 +9,12 @@ export default function CourseDirectory({ items, ratingsReady }: { items: Item[]
   const [search, setSearch] = useState('')
   const [subject, setSubject] = useState('')
   const [ger, setGer] = useState('')
-  const [introductory, setIntroductory] = useState(false)
   const [sort, setSort] = useState<CourseSort>('name')
   const subjects = [...new Set(items.map(i => courseMetadata(i.name).subject))].sort()
-  const filtered = discoverCourses(items, { search, subject, ger, introductory, sort })
-  const active = search || subject || ger || introductory || sort !== 'name'
+  const filtered = discoverCourses(items, { search, subject, ger, introductory: false, sort })
+  const active = search || subject || ger || sort !== 'name'
 
-  function reset() { setSearch(''); setSubject(''); setGer(''); setIntroductory(false); setSort('name') }
+  function reset() { setSearch(''); setSubject(''); setGer(''); setSort('name') }
   return (
     <section aria-label="课程目录">
       <div className="card p-4 sm:p-5 mb-5 space-y-4">
@@ -34,7 +33,6 @@ export default function CourseDirectory({ items, ratingsReady }: { items: Item[]
             <select aria-label="GER 要求" className="input mt-1.5" value={ger} onChange={e => setGer(e.target.value)}>
               <option value="">全部 GER</option>
               {Object.entries(GER_LABELS).map(([tag, label]) => <option key={tag} value={tag}>{tag} · {label}</option>)}
-              <option value="unknown">GER 待核实</option>
             </select>
           </label>
           <label className="text-xs text-slate-500">排序
@@ -46,13 +44,10 @@ export default function CourseDirectory({ items, ratingsReady }: { items: Item[]
           </label>
         </div>
         <div className="flex flex-wrap items-center gap-3">
-          <button type="button" aria-pressed={introductory} onClick={() => { setIntroductory(!introductory); if (!introductory) setSort('popular') }} className={`rounded-full border px-3 py-2 text-sm transition ${introductory ? 'bg-brand-700 text-white border-brand-700' : 'text-brand-700 border-brand-200 hover:bg-brand-50'}`}>
-            大一入门课 · 看热门
-          </button>
           {active && <button type="button" onClick={reset} className="text-xs text-slate-500 underline underline-offset-4">重置筛选</button>}
         </div>
-        <p className="text-xs text-slate-500 leading-relaxed">热门按本站公开评价数排序。大一入门课为目录中未列先修限制的 100 级课程，不代表大一选课人数；选课仍需确认分班和资格。</p>
-        <p className="text-xs text-slate-400 leading-relaxed">GER 参考 <a className="underline" href="https://oxford.emory.edu/catalog/documents/26-27-ox-catalog_01.30.26.pdf" target="_blank" rel="noreferrer">Oxford 2026–27 目录</a>，具体班次以 OPUS 为准。无标签表示待核实。</p>
+        <p className="text-xs text-slate-500 leading-relaxed">热门按本站公开评价数排序。</p>
+        <p className="text-xs text-slate-400 leading-relaxed">GER 参考 <a className="underline" href="https://oxford.emory.edu/catalog/documents/26-27-ox-catalog_01.30.26.pdf" target="_blank" rel="noreferrer">Oxford 2026–27 目录</a>，具体班次以 OPUS 为准。</p>
       </div>
       <div className="flex items-center justify-between mb-3 text-xs text-slate-500" aria-live="polite">
         <span>显示 {filtered.length} / {items.length} 门课程</span>
@@ -69,7 +64,7 @@ export default function CourseDirectory({ items, ratingsReady }: { items: Item[]
               {item.description && <p className="text-xs text-slate-500 mt-1 line-clamp-2">{item.description}</p>}
               <div className="flex flex-wrap gap-1.5 mt-2">
                 <span className="rounded bg-slate-100 px-2 py-0.5 text-[10px] text-slate-500">{SUBJECT_LABELS[metadata.subject] || metadata.subject}</span>
-                {metadata.ger.length ? metadata.ger.map(tag => <span key={tag} title={GER_LABELS[tag]} className="rounded bg-brand-50 px-2 py-0.5 text-[10px] text-brand-700">{tag}</span>) : <span className="text-[10px] text-slate-400">GER 待核实</span>}
+                {metadata.ger.map(tag => <span key={tag} title={GER_LABELS[tag]} className="rounded bg-brand-50 px-2 py-0.5 text-[10px] text-brand-700">{tag}</span>)}
               </div>
             </div>
             <div className="shrink-0 text-right">

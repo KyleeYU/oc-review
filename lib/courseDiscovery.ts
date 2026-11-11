@@ -54,7 +54,7 @@ export function discoverCourses(items: Item[], filters: CourseFilters) {
     const metadata = courseMetadata(item.name)
     return (!q || `${item.name} ${item.description || ''} ${SUBJECT_LABELS[metadata.subject] || ''}`.toLowerCase().includes(q))
       && (!filters.subject || metadata.subject === filters.subject)
-      && (!filters.ger || (filters.ger === 'unknown' ? metadata.ger.length === 0 : metadata.ger.includes(filters.ger)))
+      && (!filters.ger || metadata.ger.includes(filters.ger))
       && (!filters.introductory || metadata.introductory)
   }).sort((a, b) => {
     if (filters.sort === 'popular') {

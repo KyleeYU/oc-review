@@ -1,12 +1,12 @@
 # Course discovery
 
-Course pages support search (including Chinese subject names), subject and GER filters, popularity by visible review count, rating order, and a first-year introductory-course shortcut. Filters intersect. Other category pages retain their existing directory.
+Course pages support search (including Chinese subject names), subject and GER filters, popularity by visible review count, rating order. Filters intersect. Other category pages retain their existing directory.
 
 ## Metadata
 
-`data/course-catalog.json` stores factual tags extracted from the Oxford 2026–27 printed catalog (source URL and verification date are included). Base course codes map to printed catalog entries. W adds CC and E adds XA only on the actual listing's suffix. PE is displayed as PED. Unknown tags are explicitly shown as pending verification, never inferred from a department. A missing tag does not establish that a course satisfies no GER. OPUS remains authoritative for a particular section.
+`data/course-catalog.json` stores factual tags extracted from the Oxford 2026–27 printed catalog (source URL and verification date are included). Base course codes map to printed catalog entries. W adds CC and E adds XA only on the actual listing's suffix. PE is displayed as PED. Unconfirmed tags are omitted, never inferred from a department. A missing tag does not establish that a course satisfies no GER. OPUS remains authoritative for a particular section.
 
-Old QTM codes map to the corresponding DASCI metadata. ENGCW 270–272 map to the printed English creative-writing entries. The introductory shortcut conservatively includes 100-level catalog courses without listed prerequisites, permission, placement, audition, heritage/native-speaker restrictions, varsity status, intermediate level, or Calculus II. This is a discovery aid, not a registration eligibility decision or freshman enrollment statistic. More advanced courses a freshman could take are not automatically included.
+Old QTM codes map to the corresponding DASCI metadata. ENGCW 270–272 map to the printed English creative-writing entries.
 
 To refresh: download the linked official PDF, extract its text with pypdf, then run `python3 scripts/generate-course-metadata.py /absolute/path/to/extracted.txt`. Review the factual mappings and regression tests before committing. The full source PDF and course descriptions are not included in this repository.
 
